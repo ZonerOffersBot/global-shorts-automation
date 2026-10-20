@@ -1,3 +1,27 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": "jurassic-park-rain-trex-001",
+      "title": "Jurassic Park's T. rex had a real problem",
+      "review_status": "approved",
+      "source_notes": [
+        "Amblin official film page: https://amblin.com/movie/jurassic-park/ — confirms the production combined CGI dinosaurs with full-scale animatronics.",
+        "ABC News retrospective: https://abcnews.com/Entertainment/jurassic-park-turns-25-scenes-moments-iconic-summer/story?id=55332468 — reports the rain caused problems for the T. rex animatronic and crew dried it between takes."
+      ],
+      "scenes": [
+        {
+          "text": "Jurassic Park's terrifying T. rex had a surprisingly real problem."
+        },
+        {
+          "text": "The 1993 film mixed computer-generated dinosaurs with a huge physical animatronic built by Stan Winston's effects team."
+        },
+        {
+          "text": "During the famous rainstorm scene, water soaked into the dinosaur's skin and caused problems for the mechanism."
+        },
+        {
+          "text": "The crew had to dry the T. rex between takes. Sometimes, practical movie magic needs a towel."
+        }
+      ]
+    }
+  ]
 }
