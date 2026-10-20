@@ -1,45 +1,54 @@
 # Global Shorts Automation — Content Strategy
 
 ## Channel direction
-**Niche:** Real-world mysteries explained with verified facts, surprising science/history facts, and evidence-led mini-investigations.
+**Primary niche:** Movie and entertainment curiosity for a global English-speaking audience, using original narration and verified facts. Start adjacent to the channel's existing movie/entertainment audience rather than abruptly switching to unrelated topics.
 
-**Audience:** Global English-speaking viewers; use simple, clear English, short sentences, readable captions, and context that does not assume viewers live in one country.
+**Content mix (initial test):**
+1. **Real stories behind movies (35%)** — documented production stories, inspiration, casting decisions, practical effects, and facts verified from reliable interviews or official sources.
+2. **Movie mysteries and hidden details (25%)** — explain a detail or unanswered question carefully; distinguish confirmed creator statements from fan theories.
+3. **Ending/explanation Shorts (20%)** — concise, original analysis of story logic and themes; avoid simply retelling entire films.
+4. **Actor, cinema, and behind-the-scenes facts (15%)** — verified career/cinema facts with reputable sources.
+5. **Timely entertainment news (5%)** — only when current and confirmed by reliable reporting or official announcements.
+
+These percentages are a starting experiment, not a promise of virality. Use the channel's analytics to learn which topics attract and retain viewers.
+
+## Audience and language
+Use simple, natural English, short sentences, globally understandable references, and readable captions. Because the existing channel has both Hindi and English videos, test a consistent English Shorts series first and compare results. Do not assume that every existing subscriber will want the new format.
 
 ## Editorial promise
-Every Short should make viewers curious, teach them something real, and clearly distinguish confirmed facts from theories or unanswered questions. Never invent evidence, quotes, sources, statistics, or events to make a story sound real.
+Be curious but honest. Never invent production anecdotes, quotes, numbers, sources, or “secret facts.” Label interpretations and fan theories clearly. If a claim cannot be verified, leave it out or say that it is unconfirmed.
 
-## Content pillars
-1. **Verified mysteries (40%)** — documented cases, historical puzzles, unexplained observations. Explain what is known, what is disputed, and what remains unknown.
-2. **Mind-blowing science and everyday facts (30%)** — explainable phenomena with reliable sources and a clear payoff.
-3. **Strange history and real-world investigations (20%)** — surprising but well-documented events, objects, discoveries, and mistakes.
-4. **Trend response (10%)** — timely topics only after checking reliable sources; do not repeat rumours as facts.
+## Copyright-safe format
+- Make original commentary and analysis the main value.
+- Do not reupload film scenes, trailers, other creators' Shorts, or compilations as the core content.
+- Prefer original graphics, licensed stock, public-domain material when verified, or assets with permission. Use only music and sound effects that are permitted for the intended use.
+- Short clips are not automatically fair use; copyright exceptions vary by country and platforms can still claim/block videos. When in doubt, avoid using copyrighted footage.
+- Do not use an actor's likeness or synthetic voice to imply they said something they did not say.
+- Avoid repetitive mass-produced videos with minimal variation or value.
 
-These percentages are an initial test plan, not a claim that any topic will go viral. Adjust after reviewing channel analytics.
+## Short structure
+- Target about 25–45 seconds when the story supports it.
+- 0–2 seconds: a precise curiosity hook, not misleading clickbait.
+- 2–8 seconds: introduce the film/person/question and context.
+- 8–30 seconds: deliver two or three verified details with clear progression.
+- Final seconds: give a satisfying answer, or clearly say what remains uncertain.
+- Use original narration, meaningful edits, legible captions, and vertical 9:16 framing.
+- Titles and thumbnails/covers must accurately represent the video.
 
-## Short format
-- Target length: about 25–45 seconds, adjusted to the story.
-- 0–2 seconds: specific curiosity hook, not misleading clickbait.
-- 2–8 seconds: establish the verified question or context.
-- 8–30 seconds: reveal evidence in a clear sequence.
-- Final seconds: answer the question where possible; otherwise state honestly what remains unknown.
-- Use original narration, meaningful editing, legible captions, and licensed/original visuals and audio.
-- Avoid long intros, copied videos, watermarks, repetitive templates, and filler.
-- Titles must accurately describe the video. Use only a few relevant hashtags if useful.
-
-## Research and truth checks
-For each factual video, keep a source note with at least two reliable sources where practical; prioritize primary sources, reputable institutions, scientific papers, official records, and established reporting. Verify dates, names, numbers, and quotes. If reliable evidence is unavailable, skip the claim or label it as uncertain. Clearly label fictional stories as fiction; do not present them as true events.
+## Research and fact checks
+For each factual video, maintain a source note and aim for at least two reliable sources where practical. Prioritize official studio/production material, filmmaker or cast interviews, reputable publications, and primary sources. Verify names, dates, quotes, and context. Do not treat fan posts or unsourced lists as proof. Separate fact from interpretation.
 
 ## Testing and improvement
-Start with one or two high-quality Shorts per day only if the workflow can maintain quality. Review results after a meaningful sample: viewed-versus-swiped-away, average view duration, completion/rewatches, comments, and subscriber changes. Test hooks and pacing, not truthfulness. Do not promise daily virality; no creator can guarantee it.
+Start with one high-quality Short per day if feasible; increase only when quality and checks remain reliable. After a meaningful sample, review viewed-versus-swiped-away, average view duration, completion/rewatches, comments, and subscriber changes. Test hooks and pacing, not factual accuracy. No niche can guarantee daily virality.
 
 ## Automation safety
-Keep scripts, source notes, asset licences, render status, upload status, and error logs. Generate a queue before enabling automatic publishing. Test the pipeline with drafts/private uploads first. Never store API keys, OAuth tokens, passwords, or other secrets in source code or Git history; use repository/hosting secrets. Do not enable unattended publishing until uploads, retries, duplicate prevention, and failure notifications have been tested.
+Track scripts, sources, asset permissions, rendering, upload status, duplicate prevention, and errors. Test with private/draft uploads before public automation. Never commit API keys, OAuth tokens, passwords, or other secrets to Git. Store secrets in supported secret settings. Do not enable unattended publishing until uploads, retries, duplicate prevention, and failure notifications have been tested.
 
-## Initial video ideas to research (not yet verified scripts)
-1. A famous historical mystery: what the strongest evidence actually shows.
-2. A counterintuitive science effect explained in under 40 seconds.
-3. A strange object discovered by archaeologists, based on a museum or research source.
-4. A popular “unexplained” claim: what the original records confirm and what they do not.
-5. A real engineering or space mission failure and the lesson learned.
+## Initial research ideas (not yet verified scripts)
+1. A documented behind-the-scenes decision that changed a film, verified by an interview.
+2. A famous movie detail: what the director or writer actually confirmed versus fan theory.
+3. A practical effect or stunt explained using reliable production sources.
+4. The real historical event that inspired a film, compared with what the film changed.
+5. A widely repeated cinema “fact” checked against primary sources.
 
-Each idea must pass fact-checking before scripting or publication.
+Research and verify each idea before scripting or publishing.
