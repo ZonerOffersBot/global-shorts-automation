@@ -22,6 +22,94 @@
           "text": "The crew had to dry the T. rex between takes. Sometimes, practical movie magic needs a towel."
         }
       ]
+    },
+    {
+      "id": "jurassic-park-dinosaur-screen-time-001",
+      "title": "Jurassic Park barely shows its dinosaurs",
+      "review_status": "approved",
+      "source_notes": [
+        "ABC News, cast and crew retrospective: https://abcnews.com/Entertainment/jurassic-park-turns-25-scenes-moments-iconic-summer/story?id=55332468 — reports crew members estimated about 15 minutes of dinosaur footage in the 2-hour-7-minute film."
+      ],
+      "scenes": [
+        {
+          "text": "Here's a Jurassic Park trick you might never have noticed."
+        },
+        {
+          "text": "The 1993 movie runs for about two hours and seven minutes."
+        },
+        {
+          "text": "But cast and crew members told ABC News the dinosaurs appear for only about fifteen minutes in total."
+        },
+        {
+          "text": "That scarcity makes every dinosaur reveal feel like an event. Sometimes, showing less makes a monster feel bigger."
+        }
+      ]
+    },
+    {
+      "id": "jurassic-park-trex-building-001",
+      "title": "Jurassic Park's T. rex was too big for the building",
+      "review_status": "approved",
+      "source_notes": [
+        "ABC News, cast and crew retrospective: https://abcnews.com/Entertainment/jurassic-park-turns-25-scenes-moments-iconic-summer/story?id=55332468 — reports the team modified the workshop building to accommodate the huge T. rex animatronic; crew member estimates its final dimensions."
+      ],
+      "scenes": [
+        {
+          "text": "Jurassic Park's T. rex caused a real construction problem."
+        },
+        {
+          "text": "Stan Winston's effects team was building a giant physical dinosaur for the 1993 film."
+        },
+        {
+          "text": "According to crew members interviewed by ABC News, the team had to modify the building—raising the roof and enlarging a door—to move the enormous creation."
+        },
+        {
+          "text": "The behind-the-scenes challenge was almost as huge as the dinosaur itself."
+        }
+      ]
+    },
+    {
+      "id": "jurassic-park-hurricane-iniki-001",
+      "title": "A real hurricane interrupted Jurassic Park",
+      "review_status": "approved",
+      "source_notes": [
+        "ABC News, cast and crew retrospective: https://abcnews.com/Entertainment/jurassic-park-turns-25-scenes-moments-iconic-summer/story?id=55332468 — reports Hurricane Iniki struck Kauai on September 11, 1992 while the production was filming in Hawaii."
+      ],
+      "scenes": [
+        {
+          "text": "Jurassic Park faced a real-life disaster during production."
+        },
+        {
+          "text": "The crew was filming on Hawaii's island of Kauai in 1992."
+        },
+        {
+          "text": "ABC News reports that Hurricane Iniki struck on September 11, forcing cast and crew members to take shelter."
+        },
+        {
+          "text": "The movie's fictional island was dangerous enough. The real weather brought its own drama."
+        }
+      ]
+    },
+    {
+      "id": "jurassic-park-water-cup-001",
+      "title": "The T. rex water-cup ripple had a real inspiration",
+      "review_status": "approved",
+      "source_notes": [
+        "Cinemablography production-history article: https://www.cinemablography.org/blog/behind-the-scenes-jurassic-park-t-rex-entrance-scene — recounts Spielberg's idea for the vibrating water cup after seeing bass music vibrate a car's rear-view mirror; cross-check against production feature material before publishing."
+      ],
+      "scenes": [
+        {
+          "text": "That tiny ripple in the Jurassic Park water cup was designed to build fear."
+        },
+        {
+          "text": "Before the T. rex appears, the water begins to tremble with its approaching footsteps."
+        },
+        {
+          "text": "A production-history account says Steven Spielberg got the idea after noticing loud bass music vibrate his car's rear-view mirror."
+        },
+        {
+          "text": "One small ripple warns the audience about a giant threat before they even see it."
+        }
+      ]
     }
   ]
 }
